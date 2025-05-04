@@ -29,7 +29,7 @@ Link Saver is a simple and efficient Chrome extension that lets users save and m
 3. Enable Developer Mode.
 4. Click Load unpacked and select the project directory.
 
-🧪 How to Use
+## 🧪 How to Use
 - Type a URL into the input field and click Save Typed Link.
 - Click Save Current Tab to store the current tab’s URL.
 - Click Delete All Links twice (double-click) to remove all saved links.
